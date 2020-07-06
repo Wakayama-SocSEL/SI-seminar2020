@@ -9,7 +9,7 @@ jobs:
         with:
           node-version: "13.x"
       - name: Install devreplay
-      - run: npm install -g devreplay
+        run: npm install -g devreplay
       - run: npm ci
       - name: Run devreplay
         run: ./node_modules/.bin/devreplay --dir ./src devreplay.json
