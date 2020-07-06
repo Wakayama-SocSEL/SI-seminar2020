@@ -4,6 +4,8 @@ jobs:
   devreplay:
     runs-on: ubuntu-latest
     steps:
+      - name: Install devreplay
+      - run: npm install -g devreplay
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
