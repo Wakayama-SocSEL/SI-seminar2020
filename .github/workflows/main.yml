@@ -11,3 +11,4 @@ jobs:
           node-version: "12.x"
       - name: Run devreplay
         run: node_modules/.bin/devreplay --dir src/ devreplay.json
+
