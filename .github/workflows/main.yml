@@ -5,11 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - run: npm install devreplay
       - uses: actions/setup-node@v1
         with:
-          node-version: "13.x"
-      - name: Install devreplay
-        run: npm install -g devreplay
-      - run: npm ci
+          node-version: "12.x"
       - name: Run devreplay
-        run: ./node_modules/.bin/devreplay --dir ./src devreplay.json
+        run: node_modules/.bin/devreplay hello.py devreplay.json
