@@ -9,6 +9,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: "12.x"
+      - run: echo "::add-matcher::.github/devreplay-match.json"   
       - name: Run devreplay
         run: node_modules/.bin/devreplay --dir src/ devreplay.json
 
