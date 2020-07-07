@@ -8,5 +8,14 @@
         "consequent": [
             "$1, $2 = $2, $1"
         ]
+    },
+    {
+        "condition": [
+            "([a-z]+)-([a-z]+)"
+        ],
+        "consequent": [
+            "$1 $2"
+        ],
+        "regex": true
     }
 ]
