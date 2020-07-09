@@ -99,3 +99,6 @@ Ando-Masahashi,男性,-,-,-,-99.0,-99.0,NBC - Heroes,-,good
 Black-Canary,女性,blue,Human,Blond,165.0,58.0,DC Comics,-,good
 Godzilla,-,-,Kaiju,-,108.0,,,grey,bad
 Aquaman,男性,blue,Atlantean,Blond,185.0,146.0,DC Comics,-,good
+tmp = num1,
+num1 = num2,
+num2 = tmp
