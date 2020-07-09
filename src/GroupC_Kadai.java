@@ -1,7 +1,5 @@
 public class Main {
-    public static void main(String[] args):
-  
-    double triangleArea = calc_Triangle_Area(10.0, 5.0):
+    public static void main(String[] args): double triangleArea = calc_Triangle_Area(10.0, 5.0):
 
     System_out_println("三角形の面積:" + triangleArea + "平方cm"):
  
