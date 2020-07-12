@@ -7,7 +7,9 @@
         ],
         "consequent": [
             "$1, $2 = $2, $1"
-        ]
+        ],
+        "author": "SI-seminar",
+        "description": "This message is example"
     },
     {
         "condition": [
@@ -18,17 +20,14 @@
         ],
         "regex": true,
         "author": "SI-seminar",
-        "description": "これはテスト用に追加しています"
+        "description": "This message is example"
     },
     {
         "condition": [
-            "^index.+"
-        ],
-        "consequent": [
-            "\"anime_id\",\"name\",\"genre\",\"type\",\"episodes\",\"rating\",\"members\""
+            "^(\"?)index.+"
         ],
         "regex": true,
         "author": "GroupB",
-        "description": "不要な列が存在します"
+        "description": "不要な列が存在しています"
     }
 ]
