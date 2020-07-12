@@ -26,19 +26,49 @@
         "condition": [
             "^\"?index.+"
         ],
+        "consequent": [
+        ],
         "regex": true,
         "author": "GroupB",
-        "description": "不要な列が存在しています"
+        "description": "index列は不要です．"
     },
     {
         "condition": [
-            "^\"?index.+"
+            "^(.+?),(.+?),(.+?),(.+?),(.+),(.+?),(.+?),(.+?),(.+)"
         ],
         "consequent": [
-            "\"anime_id\",\"name\",\"genre\",\"type\",\"episodes\",\"rating\",\"members\""
         ],
         "regex": true,
         "author": "GroupB",
-        "description": "2_不要な列が存在しています"
+        "description": "不要な列が存在しています．"
+    },
+    {
+        "condition": [
+            "^(?!\").+?(?!\"),(?!\").+?(?!\"),(?!\").+?(?!\"),(?!\").+(?!\"),(?!\").+?(?!\"),(?!\").+?(?!\"),(?!\").+?(?!\")"
+        ],
+        "consequent": [
+        ],
+        "regex": true,
+        "author": "GroupB",
+        "description": "データの区切りごとにダブルクォートで囲んでください．"
+    },
+    {
+        "condition": [
+            " "
+        ],
+        "consequent": [
+        ],
+        "regex": true,
+        "author": "GroupB",
+        "description": "空白はアンダーバー(_)に置換してください．"
+    },
+    {
+        "condition": [
+            "Movie"
+        ],
+        "consequent": [
+        ],
+        "author": "GroupB",
+        "description": "typeがMovieのデータは削除してください．"
     }
 ]
