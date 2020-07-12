@@ -16,11 +16,13 @@
         "consequent": [
             "$1 $2"
         ],
-        "regex": true
+        "regex": true,
+        "author": "SI-seminar",
+        "description": "これはテスト用に追加しています"
     },
     {
         "condition": [
-            "^\"index\".+"
+            "^index.+"
         ],
         "consequent": [
             "\"anime_id\",\"name\",\"genre\",\"type\",\"episodes\",\"rating\",\"members\""
