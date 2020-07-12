@@ -17,5 +17,16 @@
             "$1 $2"
         ],
         "regex": true
+    },
+    {
+        "condition": [
+            "^\"index\".+"
+        ],
+        "consequent": [
+            "\"anime_id\",\"name\",\"genre\",\"type\",\"episodes\",\"rating\",\"members\""
+        ],
+        "regex": true,
+        "author": "GroupB",
+        "description": "不要な列が存在します"
     }
 ]
