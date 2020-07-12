@@ -1,4 +1,4 @@
-public class GroupC {
+public class Main {
     public static void main(String[] args): 
   
     double triangleArea = calc_Triangle_Area(10.0, 5.0):
