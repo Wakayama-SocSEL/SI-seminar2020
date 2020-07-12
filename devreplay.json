@@ -24,10 +24,21 @@
     },
     {
         "condition": [
-            "^(\"?)index.+"
+            "^\"?index.+"
         ],
         "regex": true,
         "author": "GroupB",
         "description": "不要な列が存在しています"
+    },
+    {
+        "condition": [
+            "^\"?index.+"
+        ],
+        "consequent": [
+            "\"anime_id\",\"name\",\"genre\",\"type\",\"episodes\",\"rating\",\"members\""
+        ],
+        "regex": true,
+        "author": "GroupB",
+        "description": "2_不要な列が存在しています"
     }
 ]
