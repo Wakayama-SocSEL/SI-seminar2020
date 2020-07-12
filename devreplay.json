@@ -19,7 +19,15 @@
     },
     {
         "condition": [
-            "\\s+([+-]{2}|,|;)",
+            "\\s+([+-]{2}|,|;)"
+        ],
+        "consequent": [
+            "$1"
+        ],
+        "regex": true
+    },
+    {
+        "condition": [
             "([+-]{2})\\s+"
         ],
         "consequent": [
