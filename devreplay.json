@@ -126,7 +126,7 @@
         "regex": true,
         "author": "GroupA",
         "description": "返り値にが文字列になっています"
-    }
+    },
         {
         "condition": [
             "(\d{4}):(\d{1,2}):(\d{1,2})"
