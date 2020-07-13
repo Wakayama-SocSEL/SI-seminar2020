@@ -145,7 +145,7 @@
         "consequent": [
             "$1"
         ],
-        "regex": true
+        "regex": true,
         "author":"GroupD",
         "description":"曜日の表記を頭3文字に統一してください"
     }
