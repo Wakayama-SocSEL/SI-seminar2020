@@ -1,7 +1,7 @@
 [
     {
         "condition": [
-            "(public.+))\\s:"
+            "(^\\s{4}public.+):"
         ],
         "consequent": [
             "$1{"
@@ -12,7 +12,7 @@
     },
     {
         "condition": [
-            "((?! public).+):"
+            "(^\\s{4}(?!public).+:)$"
         ],
         "consequent": [
             "$1;"
@@ -23,7 +23,7 @@
     },
     {
         "condition": [
-            "(System)_(out)_(println)((.+((:|;))"
+            "(^\\s{4}System)_(out)_(println)((.+((:|;))"
         ],
         "consequent": [
             "$1.$2.$3$4"
