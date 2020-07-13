@@ -8,7 +8,7 @@
         ],
         "regex": true,
         "author": "GroupC",
-        "description": "{で始めてください．"
+        "description": "{}で囲んでください．"
     },
     {
         "condition": [
