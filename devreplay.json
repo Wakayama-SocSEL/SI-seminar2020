@@ -134,6 +134,8 @@
         "consequent": [
             "$1/$2/$3"
         ],
-        "regex": true
+        "regex": true,
+        "author":"GroupD",
+        "description":"年月日の表記を0000/00/00に統一してください"
     }
 ]
