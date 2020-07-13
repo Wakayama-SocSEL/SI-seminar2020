@@ -23,7 +23,7 @@
     },
     {
         "condition": [
-            "(^\\s{4}System)_(out)_(println)((.+((:|;))"
+            "(^\\s{4}System)_(out)_(println)(\\(.+\\)(:|;))"
         ],
         "consequent": [
             "$1.$2.$3$4"
