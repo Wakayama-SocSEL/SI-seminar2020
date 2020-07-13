@@ -113,5 +113,29 @@
             "$1"
         ],
         "regex": true
+    },
+    {
+        "condition": [
+            "(.*;)"
+        ],
+        "consequent": [
+            "\t$1"
+        ],
+        "regex": true,
+        "severity": "Info",
+        "author": "GroupA",
+        "description": "インデントを付けてください"
+    },
+    {
+        "condition": [
+            "return \"(.*)\""
+        ],
+        "consequent": [
+            "return $1"
+        ],
+        "regex": true,
+        "severity": "Info",
+        "author": "GroupA",
+        "description": "返り値にが文字列になっています"
     }
 ]
