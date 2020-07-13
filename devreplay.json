@@ -1,116 +1,50 @@
 [
     {
         "condition": [
-            "^\"?index.+"
-        ],
-        "consequent": [
-        ],
-        "regex": true,
-        "author": "GroupB",
-        "description": "index列は不要です．"
-    },
-    {
-        "condition": [
-            "^(?!\").+?(?!\"),(?!\").+?(?!\"),(?!\").+?(?!\"),(?!\").+(?!\"),(?!\").+?(?!\"),(?!\").+?(?!\"),(?!\").+?(?!\")"
-        ],
-        "consequent": [
-        ],
-        "regex": true,
-        "author": "GroupB",
-        "description": "データの区切りごとにダブルクォートで囲んでください．"
-    },
-    {
-        "condition": [
-            " "
-        ],
-        "consequent": [
-        ],
-        "regex": true,
-        "author": "GroupB",
-        "description": "空白はアンダーバー(_)に置換してください．"
-    },
-    {
-        "condition": [
-            "Movie"
-        ],
-        "consequent": [
-        ],
-        "author": "GroupB",
-        "description": "typeがMovieのデータは削除してください．"
-    },
-    {
-        "condition": [
-            "(.+):"
-        ],
-        "consequent": [
-            "$1;"
-        ],
-        "regex": true,
-        "author": "GroupC",
-        "description": ";で閉じてください．"
-    },
-    {
-        "condition": [
-            "(^\\s{4}\\D+\\s)\"(.+)\"((:|;))"
-        ],
-        "consequent": [
-            "$1$2$3"
-        ],
-        "regex": true,
-        "author": "GroupC",
-        "description": "正しい戻り値が返るようにしてください．"
-    },
-    {
-        "condition": [
-            "(^\\s{4}\\D+)_(\\D+)_(\\D+)((.+)(:|;))"
-        ],
-        "consequent": [
-            "$1.$2.$3$4"
-        ],
-        "regex": true,
-        "author": "GroupC",
-        "description": "System.out.printlnで実行してください．"
-    },
-    {
-        "condition": [
-            "(^\\s{4}.+[^{]$)"
-        ],
-        "consequent": [
-            "\t$1"
-        ],
-        "regex": true,
-        "author": "GroupC",
-        "description": "タブを追加してください"
-    },
-        {
-        "condition": [
-            "([月火水木金土日])曜日"
+            "\"\"\"(\\w*(\\s*\\w)*)\"\"\""
         ],
         "consequent": [
             "$1"
         ],
-        "regex": true
+        "regex": true,
+        "author": "GroupF",
+        "description": "ダブルクォーテーションは削除してください"
+
     },
     {
         "condition": [
-            "(.*;)"
+            "([0-9]+)/([0-9]+)/([0-9]+)"
         ],
         "consequent": [
-            "\t$1"
+            "$1年$2月$3日"
         ],
         "regex": true,
-        "author": "GroupA",
-        "description": "インデントを付けてください"
+        "author": "GroupF",
+        "description": "年月日に統一してください"
+
     },
     {
         "condition": [
-            "return \"(.*)\""
+            "([0-9]+)year([0-9]+)month([0-9]+)day"
         ],
         "consequent": [
-            "return $1"
+            "$1年$2月$3日"
         ],
         "regex": true,
-        "author": "GroupA",
-        "description": "返り値にが文字列になっています"
+        "author": "GroupF",
+        "description": "年月日に統一してください"
+
+    },
+    {
+        "condition": [
+            "([0-9]+).([0-9]+).([0-9]+)"
+        ],
+        "consequent": [
+            "$1年$2月$3日"
+        ],
+        "regex": true,
+        "author": "GroupF",
+        "description": "年月日に統一してください"
+
     }
 ]
