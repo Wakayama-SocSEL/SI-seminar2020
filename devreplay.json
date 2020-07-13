@@ -9,6 +9,16 @@
         "regex": true,
         "author": "GroupA",
         "description": "インデントを付けてください"
+    },{
+        "condition": [
+            "(.*;)"
+        ],
+        "consequent": [
+            "    $1"
+        ],
+        "regex": true,
+        "author": "GroupA",
+        "description": "インデントを付けてください"
     },
     {
         "condition": [
