@@ -1,29 +1,6 @@
 [
     {
         "condition": [
-            "tmp = $1",
-            "$1 = $2",
-            "$2 = tmp"
-        ],
-        "consequent": [
-            "$1, $2 = $2, $1"
-        ],
-        "author": "SI-seminar",
-        "description": "This message is example"
-    },
-    {
-        "condition": [
-            "([a-z]+)-([a-z]+)"
-        ],
-        "consequent": [
-            "$1 $2"
-        ],
-        "regex": true,
-        "author": "SI-seminar",
-        "description": "This message is example"
-    },
-    {
-        "condition": [
             "^\"?index.+"
         ],
         "consequent": [
