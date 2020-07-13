@@ -104,5 +104,14 @@
         "regex": true,
         "author": "GroupC",
         "description": "タブを追加してください"
+    },
+        {
+        "condition": [
+            "([月火水木金土日])曜日"
+        ],
+        "consequent": [
+            "$1"
+        ],
+        "regex": true
     }
 ]
