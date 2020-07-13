@@ -105,15 +105,6 @@
         "author": "GroupC",
         "description": "タブを追加してください"
     },
-        {
-        "condition": [
-            "([月火水木金土日])曜日"
-        ],
-        "consequent": [
-            "$1"
-        ],
-        "regex": true
-    },
     {
         "condition": [
             "(.*;)"
@@ -135,5 +126,14 @@
         "regex": true,
         "author": "GroupA",
         "description": "返り値にが文字列になっています"
+    }
+        {
+        "condition": [
+            "(\d{4}):(\d{1,2}):(\d{1,2})"
+        ],
+        "consequent": [
+            "$1/$2/$3"
+        ],
+        "regex": true
     }
 ]
