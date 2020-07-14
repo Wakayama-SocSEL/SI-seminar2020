@@ -7,7 +7,7 @@ public class Main {
 
     final double circle_Area=calcCircleArea(5.0):
 
-    System_out_println("円の面積: "+circle_Area+"平方cm"):
+    System_out_println("円の面積: "+circle_Area+"平方cm"):　
     
     }
  
