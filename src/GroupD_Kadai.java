@@ -1,4 +1,4 @@
-﻿prefectures,publish_date,day_fo_week,patient_residence,patient_age,patient_gender,leave_hospital
+﻿prefectures,publish_date,day_fo_week,patient_residence,patient_age,patient_gender,leave_hospital 
 tokyo,2020:3:11,Wednesday,Tokyo,40age,male,1
 tokyo,2020:3:17,Tuesday,Tokyo,50age,male,1
 tokyo,2020:3:6,Friday,Tokyo,40age,male,1
