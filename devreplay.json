@@ -35,7 +35,7 @@
     },
     {
         "condition": [
-            "[a-z]*day"
+            "[a-z]{4,}day"
         ],
         "consequent": [
             ""
