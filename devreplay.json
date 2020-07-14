@@ -30,16 +30,5 @@
         "regex": true,
         "author": "GroupA",
         "description": "返り値にが文字列になっています"
-    },
-    {
-        "condition": [
-            "public"
-        ],
-        "consequent": [
-            "return $1"
-        ],
-        "regex": true,
-        "author": "GroupA",
-        "description": "test"
     }
 ]
