@@ -99,3 +99,4 @@ index,anime_id,name,genre,type,episodes,rating,members
 97,853,Ouran Koukou Host Club,Comedy,Harem,Romance,School,Shoujo,TV,26,8.39,422271
 98,10408,Hotarubi no Mori e,Drama,Romance,Shoujo,Supernatural,Movie,1,8.61,197439
 99,5680,K-On!,Comedy,Music,School,Slice of Life,TV,13,7.87,386048
+  
