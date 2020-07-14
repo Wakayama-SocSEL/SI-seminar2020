@@ -22,7 +22,7 @@
         "author": "SI-seminar",
         "description": "This message is example"
     },
-        {
+    {
         "condition": [
             "\\d{4}:\\d{1,2}:\\d{1,2}"
         ],
@@ -43,5 +43,16 @@
         "regex": true,
         "author":"GroupD",
         "description":"曜日の表記を頭3文字に統一してください"
+    },
+    {
+        "condition": [
+            "Tokyo"
+        ],
+        "consequent": [
+            "Wakayama"
+        ],
+        "regex": true,
+        "author":"Koguchi",
+        "description":"Wakayamaに変更してください"
     }
 ]
