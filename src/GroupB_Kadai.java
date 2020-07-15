@@ -1,5 +1,5 @@
 "anime_id","name","genre","type","episodes","rating","members"
-"14741","Chuunibyou_demo_Koi_ga_Shitai!","Comedy,Drama,Romance,School,Slice_of_Life","TV","12","7.95","394399"
+"14741","Chuunibyou_demo_  Koi_ga_Shitai!","Comedy,Drama,Romance,School,Slice_of_Life","TV","12","7.95","394399"
 "22535","Kiseijuu:_Sei_no_Kakuritsu","Action,Drama,Horror,Psychological,Sci-Fi,Seinen","TV","24","8.59","425457"
 "9989","Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai.","Drama,Slice_of_Life,Supernatural","TV","11","8.62","463835"
 "18153","Kyoukai_no_Kanata","Fantasy,Slice_of_Life,Supernatural","TV","12","7.88","359011"
@@ -64,6 +64,7 @@
 "2025","Darker_than_Black:_Kuro_no_Keiyakusha","Action,Mystery,Sci-Fi,Super_Power","TV","25","8.25","440334"
 "30","Neon_Genesis_Evangelion","Action,Dementia,Drama,Mecha,Psychological,Sci-Fi","TV","26","8.32","461946"
 "11617","High_School_DxD","Comedy,Demons,Ecchi,Harem,Romance,School","TV","12","7.7","398660"
+  
 "31240","Re:Zero_kara_Hajimeru_Isekai_Seikatsu","Drama,Fantasy,Psychological,Thriller","TV","25","8.64","355839"
 "269","Bleach","Action,Comedy,Shounen,Super_Power,Supernatural","TV","366","7.95","624055"
 "4181","Clannad:_After_Story","Drama,Fantasy,Romance,Slice_of_Life,Supernatural","TV","24","9.06","456749"
