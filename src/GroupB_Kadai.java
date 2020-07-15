@@ -1,5 +1,5 @@
 "anime_id","name","genre","type","episodes","rating","members"
-"14741","Chuunibyou_demo_  Koi_ga_Shitai!","Comedy,Drama,Romance,School,Slice_of_Life","TV","12","7.95","394399"
+"14741","Chuunibyou_demo_Koi_ga_Shitai!","Comedy,Drama,Romance,School,Slice_of_Life","TV","12","7.95","394399"
 "22535","Kiseijuu:_Sei_no_Kakuritsu","Action,Drama,Horror,Psychological,Sci-Fi,Seinen","TV","24","8.59","425457"
 "9989","Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai.","Drama,Slice_of_Life,Supernatural","TV","11","8.62","463835"
 "18153","Kyoukai_no_Kanata","Fantasy,Slice_of_Life,Supernatural","TV","12","7.88","359011"
