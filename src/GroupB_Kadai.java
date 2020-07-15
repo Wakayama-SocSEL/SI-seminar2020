@@ -7,7 +7,6 @@
 "19815","No_Game_No_Life","Adventure,Comedy,Ecchi,Fantasy,Game,Supernatural","TV","12","8.47","602291"
 "226","Elfen_Lied","Action,Drama,Horror,Psychological,Romance,Seinen,Supernatural","TV","13","7.85","623511"
 "10793","Guilty_Crown","Action,Drama,Sci-Fi,Super_Power","TV","22","7.81","460959"
-  
 "2167","Clannad","Comedy,Drama,Romance,School,Slice_of_Life,Supernatural","TV","23","8.3","566690"
 "21881","Sword_Art_Online_II","Action,Adventure,Fantasy,Game,Romance","TV","24","7.35","537892"
 "205","Samurai_Champloo","Action,Adventure,Comedy,Historical,Samurai,Shounen","TV","26","8.5","390076"
