@@ -55,8 +55,8 @@
 "849","Suzumiya_Haruhi_no_Yuuutsu","Comedy,Mystery,Parody,School,Sci-Fi,Slice_of_Life","TV","14","8.06","428569"
 "4224","Toradora!","Comedy,Romance,School,Slice_of_Life","TV","25","8.45","633817"
 "121","Fullmetal_Alchemist","Action,Adventure,Comedy,Drama,Fantasy,Magic,Military,Shounen","TV","51","8.33","600384"
-"1","Cowboy_Bebop","Action,Adventure,Comedy,Drama,Sci  -Fi,Space","TV","26","8.82","486824"
-20507","Noragami","Action,Adventure,Shounen,Supernatural","TV","12","8.17","515378"
+"1","Cowboy_Bebop","Action,Adventure,Comedy,Drama,Sci-Fi,Space","TV","26","8.82","486824"
+"20507","Noragami","Action,Adventure,Shounen,Supernatural","TV","12","8.17","515378"
 "17265","Log_Horizon","Action,Adventure,Fantasy,Game,Magic,Shounen","TV","25","8.14","387100"
 "22319","Tokyo_Ghoul","Action,Drama,Horror,Mystery,Psychological,Seinen,Supernatural","TV","12","8.07","618056"
 "6702","Fairy_Tail","Action,Adventure,Comedy,Fantasy,Magic,Shounen","TV","175","8.22","584590"
@@ -64,10 +64,8 @@
 "2025","Darker_than_Black:_Kuro_no_Keiyakusha","Action,Mystery,Sci-Fi,Super_Power","TV","25","8.25","440334"
 "30","Neon_Genesis_Evangelion","Action,Dementia,Drama,Mecha,Psychological,Sci-Fi","TV","26","8.32","461946"
 "11617","High_School_DxD","Comedy,Demons,Ecchi,Harem,Romance,School","TV","12","7.7","398660"
-  
 "31240","Re:Zero_kara_Hajimeru_Isekai_Seikatsu","Drama,Fantasy,Psychological,Thriller","TV","25","8.64","355839"
 "269","Bleach","Action,Comedy,Shounen,Super_Power,Supernatural","TV","366","7.95","624055"
 "4181","Clannad:_After_Story","Drama,Fantasy,Romance,Slice_of_Life,Supernatural","TV","24","9.06","456749"
 "853","Ouran_Koukou_Host_Club","Comedy,Harem,Romance,School,Shoujo","TV","26","8.39","422271"
 "5680","K-On!","Comedy,Music,School,Slice_of_Life","TV","13","7.87","386048"
-test
