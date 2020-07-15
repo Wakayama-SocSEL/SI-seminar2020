@@ -10,6 +10,7 @@
 "2167","Clannad","Comedy,Drama,Romance,School,Slice_of_Life,Supernatural","TV","23","8.3","566690"
 "21881","Sword_Art_Online_II","Action,Adventure,Fantasy,Game,Romance","TV","24","7.35","537892"
 "205","Samurai_Champloo","Action,Adventure,Comedy,Historical,Samurai,Shounen","TV","26","8.5","390076"
+
 "10620","Mirai_Nikki_(TV)","Action,Mystery,Psychological,Shounen,Supernatural,Thriller","TV","26","8.07","657190"
 "31043","Boku_dake_ga_Inai_Machi","Mystery,Psychological,Seinen,Supernatural","TV","12","8.65","402381"
 "10087","Fate/Zero","Action,Fantasy,Supernatural","TV","13","8.51","453630"
@@ -66,6 +67,6 @@
 "11617","High_School_DxD","Comedy,Demons,Ecchi,Harem,Romance,School","TV","12","7.7","398660"
 "31240","Re:Zero_kara_Hajimeru_Isekai_Seikatsu","Drama,Fantasy,Psychological,Thriller","TV","25","8.64","355839"
 "269","Bleach","Action,Comedy,Shounen,Super_Power,Supernatural","TV","366","7.95","624055"
-"4181","Clannad:_After_Story","Drama,Fantasy,Romance,Slice_of_Life,Supernatural","TV","24","9.06","456749"
+"4181","C lannad:_After_Story","Drama,Fantasy,Romance,Slice_of_Life,Supernatural","TV","24","9.06","456749"
 "853","Ouran_Koukou_Host_Club","Comedy,Harem,Romance,School,Shoujo","TV","26","8.39","422271"
 "5680","K-On!","Comedy,Music,School,Slice_of_Life","TV","13","7.87","386048"
