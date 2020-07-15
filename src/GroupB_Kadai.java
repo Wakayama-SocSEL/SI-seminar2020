@@ -7,6 +7,7 @@
 "19815","No_Game_No_Life","Adventure,Comedy,Ecchi,Fantasy,Game,Supernatural","TV","12","8.47","602291"
 "226","Elfen_Lied","Action,Drama,Horror,Psychological,Romance,Seinen,Supernatural","TV","13","7.85","623511"
 "10793","Guilty_Crown","Action,Drama,Sci-Fi,Super_Power","TV","22","7.81","460959"
+  
 "2167","Clannad","Comedy,Drama,Romance,School,Slice_of_Life,Supernatural","TV","23","8.3","566690"
 "21881","Sword_Art_Online_II","Action,Adventure,Fantasy,Game,Romance","TV","24","7.35","537892"
 "205","Samurai_Champloo","Action,Adventure,Comedy,Historical,Samurai,Shounen","TV","26","8.5","390076"
@@ -56,7 +57,7 @@
 "4224","Toradora!","Comedy,Romance,School,Slice_of_Life","TV","25","8.45","633817"
 "121","Fullmetal_Alchemist","Action,Adventure,Comedy,Drama,Fantasy,Magic,Military,Shounen","TV","51","8.33","600384"
 "1","Cowboy_Bebop","Action,Adventure,Comedy,Drama,Sci-Fi,Space","TV","26","8.82","486824"
-"20507","Noragami","Action,Adventure,Shounen,Supernatural","TV","12","8.17","515378"
+20507","Noragami","Action,Adventure,Shounen,Supernatural","TV","12","8.17","515378"
 "17265","Log_Horizon","Action,Adventure,Fantasy,Game,Magic,Shounen","TV","25","8.14","387100"
 "22319","Tokyo_Ghoul","Action,Drama,Horror,Mystery,Psychological,Seinen,Supernatural","TV","12","8.07","618056"
 "6702","Fairy_Tail","Action,Adventure,Comedy,Fantasy,Magic,Shounen","TV","175","8.22","584590"
